@@ -1,8 +1,9 @@
 # Hack The North 2019: Commi
-- Gyeongwon Lee
-- Aadam Ali
-- Mayank Shrivastava
-- Yang Xu
+Our Team! 
+- Yang Xu (Sensor_Motor)
+- Mayank Shrivastava (detection)
+- Aadam Ali (detection)
+- Gyeongwon Lee (Interact With Google Assistant)
 
 With amazing innovations being made in various personal voice assistant products in the market (e.g. Google Home, Amazon Echo), these technologies are mostly left inaccessible to people with hearing and sppech impairments. We envisioned to create a way for people to interact with these technologies by using sign languages in front of a rotating webcam -- that knows where to look -- to "speak" to these personal assistants, and "listen" to their responses through text displayed on our web application (web application not fully completed yet).
 
