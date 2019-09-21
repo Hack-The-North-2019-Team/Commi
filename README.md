@@ -7,7 +7,7 @@ Our Team!
 
 With amazing innovations being made in various personal voice assistant products in the market (e.g. Google Home, Amazon Echo), these technologies are mostly left inaccessible to people with hearing and sppech impairments. We envisioned to create a way for people to interact with these technologies by using sign languages in front of a rotating webcam -- that knows where to look -- to "speak" to these personal assistants, and "listen" to their responses through text displayed on our web application (web application not fully completed yet).
 
-We used a ton of cool technologies and APIs available in order to complete this project, and we learned a lot in the process. We are very proud to have made a functional product that was actually usable by the end of our 36-hour-long hacking. Feel free to checkout our page at: 
+We used a ton of cool technologies and APIs available in order to complete this project, and we learned a lot in the process. We are very proud to have made a functional product that was actually usable by the end of our 36-hour-long hacking. Feel free to check out our page at: 
 
 https://devpost.com/software/commi
 
